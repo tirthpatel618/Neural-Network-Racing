@@ -8,10 +8,6 @@ Simple simulation in Python in which a Neural Network learns to drive a racing c
 Neural network has several inputs (distance sensors and car speed)
 and it outputs acceleration and steering.
 
-I used a simple Evolutionary algorithm to train the NN.
-
-- Tomáš Březina 2020
-
 Run command:
 pip install -r requirements.txt
 """
