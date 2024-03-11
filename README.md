@@ -14,7 +14,6 @@ https://user-images.githubusercontent.com/46631861/161601803-30c7b0d2-ae7f-4145-
 
     pip install -r requirements.txt
 
-https://github.com/TomasBrezina/NeuralNetworkRacing/blob/0ac7d81ef07f70ef9a3b9fc9e3f3e179bda86d6d/requirements.txt#L1-L3
 
 ## Config
 
